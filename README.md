@@ -21,5 +21,6 @@
 拉取远程分支最新的提交到本地：git pull
 
 将某分支合理化 git push --set-upstream origin fenzhi
+同步远程分支： git pull --rebase origin main
 
 试一试
