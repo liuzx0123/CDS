@@ -20,5 +20,6 @@
 推送当前分支最新的提交到远程：git push
 拉取远程分支最新的提交到本地：git pull
 
+将某分支合理化 git push --set-upstream origin fenzhi
 
 试一试
